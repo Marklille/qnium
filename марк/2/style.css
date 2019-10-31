@@ -1,0 +1,8 @@
+body{
+	background: #777;
+}
+.twocoloum{
+	display: inline-block;
+	margin: 0 0 0 200px;
+
+}

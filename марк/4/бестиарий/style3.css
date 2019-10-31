@@ -1,0 +1,47 @@
+*{
+	padding: 0;
+	margin: 0;
+
+}
+body{
+	font-family: sans-serif;
+}
+header, footer{
+	background: pink;
+
+}
+header{
+	padding: 20px;
+	text-align: center;
+}
+section img{
+	width: 25%;
+}
+section div{
+	text-align: center;
+}
+.team{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	padding:25px;
+	border:7px outset #ccc;
+
+}
+.team img{
+	border-radius:50%;
+}
+section a{
+	width: 30%;
+}
+main{
+	width: 10% auto;
+	margin: 10%;
+}
+.team {background:#C0C0C0;}
+
+.memes img{
+	border-radius:50%;
+}

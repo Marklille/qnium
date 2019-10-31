@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<link rel="stylesheet" type="text/css" href="index (бестиарий).html">
+	<meta charset="utf-8">
+	<title>,бестиарий мемов</title>
+</head>
+<body>
+	<header>
+		<nav>
+			<a href="#">главная<a/>
+			<a href="catalog.html">каталог</a>
+		</nav>
+	</header>
+
+
+	<main>
+		<section>
+		<h1>привет</h1>	
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</section>
+		
+		<section>
+				
+		<a href="">
+			<div>
+				<img src="" alt="https://vk.com/id452063370">
+				<p>Виктор Красносельский</p>
+			</div>
+		</a>
+		<a href="">
+			<div>
+				<img src="" alt="https://vk.com/solomob">
+				<p>Максим Жаров</p>
+			</div>
+		</a>
+		<a href="">
+			<div>
+				<img src="" alt="https://vk.com/mariklille">
+				<p>марк Лилле</p>
+			</div>
+		</a>
+
+		</section>
+
+		<div>
+			
+		</div>
+	</main>
+
+	<footer>
+		<div>
+		<a href="">главная</a>
+		<a href="">каталог</a>
+		</div>
+		<div>
+			<p>copyright</p>
+		</div>
+	</footer>
+
+</body>
+</html>
